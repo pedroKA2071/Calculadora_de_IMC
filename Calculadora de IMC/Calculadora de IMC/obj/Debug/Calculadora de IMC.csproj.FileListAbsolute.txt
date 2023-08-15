@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\obj\Debug\Calculadora de IMC.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\obj\Debug\Calculadora de IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\obj\Debug\Calculadora de IMC.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\bin\Debug\Calculadora de IMC.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\bin\Debug\Calculadora de IMC.exe
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\bin\Debug\Calculadora de IMC.pdb
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\obj\Debug\Calculadora de IMC.exe
+C:\Users\pedro.hgaspar2\source\repos\Calculadora_de_IMC\Calculadora de IMC\Calculadora de IMC\obj\Debug\Calculadora de IMC.pdb
